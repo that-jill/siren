@@ -1,0 +1,2 @@
+module MessageInABottlesHelper
+end

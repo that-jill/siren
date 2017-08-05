@@ -1,0 +1,2 @@
+class MessageInABottle < ApplicationRecord
+end
